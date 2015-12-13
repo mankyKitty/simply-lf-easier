@@ -7,7 +7,7 @@ An implementation of the polymorphic lambda calculus for Lisp Flavoured Erlang. 
 
 Wish me luck? Thoughts and suggestions encouraged using issues/PRs/nagging on IRC. I'm _mankyKitty_ on freenode.net in #erlang-lisp.
 
-## Installation
+## Installation -- Currently Unwise
 
 Just add it to your ``rebar.config`` deps:
 
@@ -15,7 +15,7 @@ Just add it to your ``rebar.config`` deps:
   {deps, [
     ...
     {simply-lf-easier, ".*",
-      {git, "git@github.com:YOURNAME/simply-lf-easier.git", "master"}}
+      {git, "git@github.com:mankyKitty/simply-lf-easier.git", "master"}}
       ]}.
 ```
 
