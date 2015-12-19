@@ -3,5 +3,5 @@ Expm.Package.new(
   description: "simply-lf-easier DESCRIPTION",
   version: "0.0.1",
   keywords: ["LFE", "Lisp", "Library", "API"],
-  maintainers: [[name: "YOUR NAME", email: "YOUR@EMAIL.com"]],
-  repositories: [[github: "YOUR_GITHUB_NAME/simply-lf-easier"]])
+  maintainers: [[name: "Sean Chalmers", email: "seanchalmers00@gmail.com"]],
+  repositories: [[github: "mankyKitty/simply-lf-easier"]])
