@@ -2,7 +2,7 @@
 {application, 'simply-lf-easier',
  [
   %% A quick description of the application.
-  {description, "My project description..."},
+  {description, "Here there be Curiosity Lizards..."},
 
   %% The version of the application
   {vsn, "0.0.1"},
